@@ -1,1 +1,5 @@
-# The-Attendance-System-Using-Face-Recognition
+# The Attendance System Using Face Recognition
+
+In this project, we use a face recognition algorithm to identify people in one class or department. After that, the system records people's names and dates of their entrance as a present person.
+
+We implemented the Attendance System Using Face Recognition software under windows. The design is in below image:
